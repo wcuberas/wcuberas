@@ -10,7 +10,7 @@ const aboutMe = {
    code: [Javascript, Typescript, HTML, CSS],
    technologies: {
       frontEnd: {
-         js: ["React"],
+         js: ["React", "Redux"],
          css: ["Bootstrap"]
       },
       backEnd: {
