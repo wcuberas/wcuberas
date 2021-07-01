@@ -1,5 +1,7 @@
 ### Hi, I'm Walter 🇦🇷 💻 
 
+---
+
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
@@ -15,10 +17,17 @@ const aboutMe = {
       databases: ["PostgreSQL"],
    },
    currentOccupation: ["last year student, open for job opportunities"],
+   hobbies: ["Piano", "Paddle", "Soccer", "Friends"]
 };
 ```
-</br></br>
 
+---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wcuberas&count_private=true&show_icons=true&theme=vue-dark)
+
+---
+
+Let's connect 👨‍💻 and forge the future together 😁✌
 
 [![Linkedin Badge](https://img.shields.io/badge/-Walter_Cuberas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walter-cuberas-dev/)](https://www.linkedin.com/in/walter-cuberas-dev/)
 </br>
