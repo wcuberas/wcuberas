@@ -1,4 +1,6 @@
-### Hi, I'm Walter 🇦🇷 💻 
+### Hi there 👋 , I'm Walter 🇦🇷 
+
+> Full Stack Developer 💻 
 
 ---
 
