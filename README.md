@@ -16,7 +16,7 @@ const aboutMe = {
       backEnd: {
          js: ["Node", "Express"],
       },
-      databases: ["PostgreSQL"],
+      databases: ["PostgreSQL", "Mongo DB"],
    },
    currentOccupation: ["last year student, open for job opportunities"],
    hobbies: ["Piano", "Paddle", "Soccer", "Friends"]
