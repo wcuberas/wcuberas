@@ -1,4 +1,4 @@
-### Hi there 👋 , I'm Walter 🇦🇷 
+<img src="https://github.com/wcuberas/waty/blob/main/svg.svg"/>
 
 > Full Stack Developer 💻 
 
