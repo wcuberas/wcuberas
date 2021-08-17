@@ -22,6 +22,11 @@ const aboutMe = {
    hobbies: ["Piano", "Paddle", "Soccer", "Friends"]
 };
 ```
+---
+
+### VISIT MY PORTFOLIO HERE
+
+![Texto alternativo](https://github.com/wcuberas/portafolio/blob/main/public/images/trekker.jpeg)
 
 ---
 
