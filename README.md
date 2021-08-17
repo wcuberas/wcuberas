@@ -26,7 +26,9 @@ const aboutMe = {
 
 ### VISIT MY PORTFOLIO HERE
 
-![Texto alternativo](https://github.com/wcuberas/portafolio/blob/main/public/images/trekker.jpeg)
+[LINK](https://portafolio-29366.web.app/)
+
+![Texto alternativo](https://github.com/wcuberas/portafolio/blob/main/public/images/portafolio.png)
 
 ---
 
