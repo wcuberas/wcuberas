@@ -64,13 +64,25 @@ Building a calculator using React and syled components !!!
 
 Building a calculator using React and syled components !!!
 
-![Calculator](https://github.com/wcuberas/portafolio/blob/main/public/images/trekker.jpeg)
+![Trekker](https://github.com/wcuberas/portafolio/blob/main/public/images/trekker.jpeg)
 
 
 [👉  Repository  👈 ](https://github.com/davidcesaretti/reservar "Repo")
 
 
 [👉  Deploy. 👈 ](https://trekker-59f4e.web.app/ "Deploy")
+
+---
+
+### React - Calculator
+
+Building a calculator using React and syled components !!!
+
+![Pokemon](https://github.com/wcuberas/PI-Pokemon-FT13/blob/main/client/src/image/landing.png)
+
+
+[👉  Repository  👈 ](https://github.com/wcuberas/PI-Pokemon-FT13 "Repo")
+
 
 ---
 
