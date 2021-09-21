@@ -38,13 +38,11 @@ Development of a SPA (Single Page Aplication) using React js, Typescript and pur
 
 ![Books](https://github.com/wcuberas/quizz-app/blob/main/src/image/books2.png)
 
-##### Repo
 
-[👉  Repo](https://github.com/wcuberas/quizz-app "Repo")
+[👉  Repository  👈 ](https://github.com/wcuberas/quizz-app "Repo")
 
-##### Live Demo
 
-[👉  Deploy](https://booksquizapp-2f4fa.web.app/ "Deploy")
+[👉  Deploy. 👈 ](https://booksquizapp-2f4fa.web.app/ "Deploy")
 
 ---
 
