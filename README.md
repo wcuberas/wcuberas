@@ -32,6 +32,22 @@ const aboutMe = {
 
 ---
 
+###  📚  Books - Quiz - App 📚
+
+Development of a SPA (Single Page Aplication) using React js, Typescript and pure CSS.
+
+![Start](quizz-app/src/image/books2.png)
+
+##### Repo
+
+[Repo](https://github.com/wcuberas/quizz-app "Repo")
+
+##### Live Demo
+
+[Deploy](https://booksquizapp-2f4fa.web.app/ "Deploy")
+
+---
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wcuberas&count_private=true&show_icons=true&theme=vue-dark)
 
 ---
