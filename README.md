@@ -46,6 +46,34 @@ Development of a SPA (Single Page Aplication) using React js, Typescript and pur
 
 ---
 
+### React - Calculator
+
+Building a calculator using React and syled components !!!
+
+![Calculator](https://github.com/wcuberas/react-calculator/blob/main/src/components/images/calculator.png)
+
+
+[👉  Repository  👈 ](https://github.com/wcuberas/react-calculator "Repo")
+
+
+[👉  Deploy. 👈 ](https://calculator-e6599.web.app/ "Deploy")
+
+---
+
+### Trekker Vacations Rentals ("Reservar")
+
+Building a calculator using React and syled components !!!
+
+![Calculator](https://github.com/wcuberas/portafolio/blob/main/public/images/trekker.jpeg)
+
+
+[👉  Repository  👈 ](https://github.com/davidcesaretti/reservar "Repo")
+
+
+[👉  Deploy. 👈 ](https://trekker-59f4e.web.app/ "Deploy")
+
+---
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wcuberas&count_private=true&show_icons=true&theme=vue-dark)
 
 ---
