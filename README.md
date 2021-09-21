@@ -74,9 +74,9 @@ Building a calculator using React and syled components !!!
 
 ---
 
-### React - Calculator
+### Pokemon App
 
-Building a calculator using React and syled components !!!
+Development of a SPA using React - Redux - Node - Express - PostgreSQL and pure CSS.
 
 ![Pokemon](https://github.com/wcuberas/PI-Pokemon-FT13/blob/main/client/src/image/landing.png)
 
