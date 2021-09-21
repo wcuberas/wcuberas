@@ -36,7 +36,7 @@ const aboutMe = {
 
 Development of a SPA (Single Page Aplication) using React js, Typescript and pure CSS.
 
-![Start](https://github.com/wcuberas/quizz-app/src/image/books2.png)
+![Books](https://github.com/wcuberas/quizz-app/blob/main/src/image/books2.png)
 
 ##### Repo
 
