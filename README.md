@@ -10,15 +10,15 @@ const aboutMe = {
    code: [Javascript, Typescript, HTML, CSS],
    technologies: {
       frontEnd: {
-         js: ["React", "Redux"],
-         css: ["Bootstrap", "Material UI", "SASS"]
+         js: ["React", "Redux", "Redux Toolkit"],
+         css: ["Bootstrap", "Material UI", "SASS", "Styled Componnets"]
       },
       backEnd: {
          js: ["Node", "Express"],
       },
       databases: ["PostgreSQL", "Mongo DB"],
    },
-   currentOccupation: ["last year student, open for job opportunities"],
+   currentOccupation: ["working as a Frontend developer"],
    hobbies: ["Piano", "Paddle", "Soccer", "Friends"]
 };
 ```
